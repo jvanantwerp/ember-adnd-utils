@@ -1,0 +1,1 @@
+export { default } from 'ember-adnd-utils/components/show-race';
